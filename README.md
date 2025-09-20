@@ -25,10 +25,10 @@ This is my live website built using **Squarespace**.
 ## Screenshots  
 
 ### Homepage  
-![Homepage](https://i.postimg.cc/3wsjZX12/Screenshot-2025-09-20-124209.png)  
+![Homepage](screenshots/homepage.png)  
 
 ### Courses Page  
-![Courses Page](https://i.postimg.cc/7ZpTvxzk/Screenshot-2025-09-20-124235.png)  
+![Courses Page](screenshots/courses.png)  
 
 ---
 
@@ -36,5 +36,3 @@ This is my live website built using **Squarespace**.
 
 **Dua Rizwan**  
 Registration #: **2380234**  
-
-Added README with screenshots
